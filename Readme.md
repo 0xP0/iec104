@@ -19,3 +19,5 @@ https://iec104-python.readthedocs.io/latest/install.html
 
 
 # server 可以用PMA 模拟
+![图片alt](doc/PMA.png "从站配置")
+
